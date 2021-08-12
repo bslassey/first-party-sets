@@ -5,7 +5,7 @@ First-Party Sets aims to define the notion of "first-party" as a technical const
 1.   Common owners and common controllers
 2.  "A group identity that is easily discoverable by a user"
 
-The DNT definition of ‘party' converge with the findings and recommendations of the 2012 Federal Trade Commission report titled "[Protecting Consumer Privacy in an Era of Rapid Change](https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-report-protecting-consumer-privacy-era-rapid-change-recommendations/120326privacyreport.pdf)". This report also recommends, for the sake of user transparency:
+The DNT definition of ‘party' converges with the findings and recommendations of the 2012 Federal Trade Commission report titled "[Protecting Consumer Privacy in an Era of Rapid Change](https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-report-protecting-consumer-privacy-era-rapid-change-recommendations/120326privacyreport.pdf)". This report also recommends, for the sake of user transparency:
 
 3.  "Privacy notices should be clearer, shorter, and more standardized to enable better comprehension and comparison of privacy practices."
 
